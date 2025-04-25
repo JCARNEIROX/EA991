@@ -13,3 +13,6 @@
 [submodule "Atividade_01"]
 	path = Atividade_01
 	url = https://github.com/JCARNEIROX/Atividade_01.git
+[submodule "Atividade_02"]
+	path = Atividade_02
+	url = https://github.com/JCARNEIROX/Atividade_02.git
