@@ -22,3 +22,6 @@
 [submodule "Aula_06"]
 	path = Aula_06
 	url = https://github.com/JCARNEIROX/Aula_06.git
+[submodule "Atividade_03"]
+	path = Atividade_03
+	url = https://github.com/JCARNEIROX/Atividade_03.git
